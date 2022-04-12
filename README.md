@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @peopleAlreadyKnowWhoIAm
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning Rust(embedded), Java, Kotlin a little
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me: You could find me in the real world. I think I will be there.
